@@ -11,4 +11,10 @@ This repository showcases the web projects I developed during the JavaScript cou
 <img src="Bankist_Website/Image-1.png" width="500">
 <img src="Bankist_Website/Image-2.png" width="500">
 
+## Guess Number Project
 
+<img src="Guess_Number_Project/Image.png" width="500">
+
+## Pig_Game_Project
+
+<img src="Pig_Game_Project/Image.png" width="500">
