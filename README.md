@@ -2,5 +2,5 @@
 
 ## Bank App
 
-<img src="image/nome-da-imagem.png" width="500">
+<img src="Bank_App/Image.png" width="500">
 
